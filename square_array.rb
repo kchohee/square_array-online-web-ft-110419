@@ -5,4 +5,3 @@ def square_array(array)
     new_numbers << "Idk"
   end
 end
-new_numbers
