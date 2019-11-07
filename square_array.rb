@@ -1,8 +1,6 @@
 def square_array(array)
-  array.each do |idk|
-    puts idk
-    Math.sqrt(idk)
-    new_numbers = []
-    new_numbers << idk
-  end
+new_numbers= []
+array.each do |numbers|
+  new_numbers << numbers
+end
 end
